@@ -1,3 +1,3 @@
 # Online voting for college
 
-  This a project where students can elect their representatives.
+Online voting is an online platform through which votes can be cast to elect the candidate. Which makes voting much easier and time saving.
